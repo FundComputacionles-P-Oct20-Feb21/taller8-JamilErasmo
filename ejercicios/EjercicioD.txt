@@ -1,0 +1,19 @@
+Ejercicio D
+
+Miniespecificacion
+
+1_ Inicio
+2_ arreglo(5), i[0-n]
+3_ arreglo[0] <-- 10
+4_ arreglo[1] <-- 9
+5_ arreglo[2] <-- 20
+6_ arreglo[3] <-- 29
+7_ arreglo[4] <-- 100
+8_ indice, i[0, n] <-- 0
+9_ Mientras indice < 5 entonces
+10_	Si ((indice MOD 2 == 0) AND (indice >=2)) entonces
+11_ 		Escribir arreglo[indice] + "Es par"
+12_ 	Fin si
+13_ 	indice <-- indice + 1
+14_ Fin_Mientras
+15_ Fin

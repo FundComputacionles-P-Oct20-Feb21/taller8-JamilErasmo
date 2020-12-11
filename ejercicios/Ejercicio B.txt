@@ -1,0 +1,21 @@
+Ejercicio B
+
+Miniespecificacion
+
+1_ Inicio
+2_ ventas , i[0, n]
+3_ dias[5], x(20)[{a-z}, {BS}])
+4_ dias[0]<-- "Lunes"
+5_ dias[1]<-- "Martes"
+6_ dias[2]<-- "Miércoles"
+7_ dias[3]<-- "Jueves"
+8_ dias[4]<-- "Viernes"
+9_ indice, i[0, n]
+10_ Para (indice,<-- 0, indice <5 ,1)
+10_ 	Escribir "Ingrese el valor de la venta"
+11_ 	Leer ventas[indice]
+10_ 	Para (indice <--0; indice<5; 1)
+11_		Escribir dias[indice] + "$" + ventas[indice]
+12_	Fin_Para
+13_ Fin_Para
+14_ Fin
